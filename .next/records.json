@@ -490,18 +490,23 @@
       "static/pOIengbNkR11LlsUkeIp1/pages/index.js": 4,
       "static/pOIengbNkR11LlsUkeIp1/pages/robots.js": 5,
       "static/pOIengbNkR11LlsUkeIp1/pages/_app.js": 6,
-      "static/pOIengbNkR11LlsUkeIp1/pages/_error.js": 7
+      "static/pOIengbNkR11LlsUkeIp1/pages/_error.js": 7,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/about.js": 8,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/index.js": 9,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/robots.js": 10,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/_app.js": 11,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/_error.js": 12
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
+      10,
+      11,
+      12,
       2,
-      3,
-      4,
-      5,
-      6,
-      7
+      8,
+      9
     ]
   }
 }

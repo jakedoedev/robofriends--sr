@@ -50,16 +50,22 @@
       "static/pOIengbNkR11LlsUkeIp1/pages/robots.js": 2,
       "static/pOIengbNkR11LlsUkeIp1/pages/_app.js": 3,
       "static/pOIengbNkR11LlsUkeIp1/pages/_error.js": 4,
-      "static/pOIengbNkR11LlsUkeIp1/pages/_document.js": 5
+      "static/pOIengbNkR11LlsUkeIp1/pages/_document.js": 5,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/about.js": 6,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/index.js": 7,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/robots.js": 8,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/_app.js": 9,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/_error.js": 10,
+      "static/u4L1TPkCDUBRTwxUmKE7Q/pages/_document.js": 11
     },
     "bySource": {},
     "usedIds": [
-      0,
-      1,
-      2,
-      3,
-      4,
-      5
+      10,
+      11,
+      6,
+      7,
+      8,
+      9
     ]
   }
 }
