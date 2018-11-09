@@ -1,0 +1,65 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"next/link\"": 1,
+      "external \"@babel/runtime/regenerator\"": 2,
+      "external \"isomorphic-unfetch\"": 3,
+      "multi ./pages/about.js": 4,
+      "multi ./pages/index.js": 5,
+      "../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/pages/index.js": 6,
+      "multi ./pages/robots.js": 7,
+      "../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/pages/robots.js": 8,
+      "multi ../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/pages/_app.js": 9,
+      "../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/pages/_app.js": 10,
+      "external \"next/app\"": 11,
+      "multi ../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/pages/_error.js": 12,
+      "../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/pages/_error.js": 13,
+      "external \"next/error\"": 14,
+      "multi ../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/pages/_document.js": 15,
+      "../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/pages/_document.js": 16,
+      "external \"next/document\"": 17,
+      "../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!../../../The Complete Junior to Senior Web Developer/Lab/next-ssr/pages/about.js 3ee24016e86c468c4fefb9f68e247707": 18
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/pOIengbNkR11LlsUkeIp1/pages/about.js": 0,
+      "static/pOIengbNkR11LlsUkeIp1/pages/index.js": 1,
+      "static/pOIengbNkR11LlsUkeIp1/pages/robots.js": 2,
+      "static/pOIengbNkR11LlsUkeIp1/pages/_app.js": 3,
+      "static/pOIengbNkR11LlsUkeIp1/pages/_error.js": 4,
+      "static/pOIengbNkR11LlsUkeIp1/pages/_document.js": 5
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}
